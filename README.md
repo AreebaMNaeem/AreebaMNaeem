@@ -1,4 +1,4 @@
-# Hi there!👋 I'm Areeba Naeem 
+# 👋 Hello, it’s me Areeba Naeem
 
 <div align="center">
 
@@ -10,6 +10,7 @@
 </a>
 
 </div>
+<br>
 
 I am a Final-year Software Engineering student focused on full-stack development and AI. I enjoy building APIs, web applications, and data-driven solutions using modern technologies, and I love exploring how intelligent systems can solve real-world problems.
 
