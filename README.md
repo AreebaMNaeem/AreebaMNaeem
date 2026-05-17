@@ -69,12 +69,24 @@ I am a Final-year Software Engineering student focused on full-stack development
 - FastAPI-based scalable APIs
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AreebaMNaeem&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AreebaMNaeem&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AreebaMNaeem&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=AreebaMNaeem&icon=0&color=0" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
