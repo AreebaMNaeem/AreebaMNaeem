@@ -83,10 +83,6 @@ I am a Final-year Software Engineering student focused on full-stack development
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=AreebaMNaeem&icon=0&color=0" />
-  </a>
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
