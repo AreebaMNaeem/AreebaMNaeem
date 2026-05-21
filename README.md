@@ -67,11 +67,12 @@ I am a Final-year Software Engineering student focused on full-stack development
 - Machine Learning & Intelligent Systems  
 - Full Stack Development  
 - FastAPI-based scalable APIs
-
+- 
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://streak-stats.demolab.com/?user=AreebaMNaeem&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
