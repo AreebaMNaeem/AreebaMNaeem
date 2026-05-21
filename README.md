@@ -70,13 +70,14 @@ I am a Final-year Software Engineering student focused on full-stack development
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=AreebaMNaeem&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
+---
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AreebaMNaeem&theme=dark&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=AreebaMNaeem&icon=0&color=0" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
