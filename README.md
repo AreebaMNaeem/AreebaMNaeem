@@ -74,10 +74,4 @@ I am a Final-year Software Engineering student focused on full-stack development
   <img src="https://streak-stats.demolab.com/?user=AreebaMNaeem&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AreebaMNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AreebaMNaeem&icon=0&color=0" />
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
